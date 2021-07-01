@@ -76,11 +76,9 @@
     </div>
 </div>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
 <!-- Bootstrap core JavaScript -->
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 
 <!-- Additional Scripts -->
 <script src="assets/js/custom.js" type="text/javascript"></script>
