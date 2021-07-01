@@ -77,14 +77,14 @@
 </div>
 
 <!-- Bootstrap core JavaScript -->
-<script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/jquery/jquery.min.js" type="text/javascript"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js" type="text/javascript"></script>
 
 <!-- Additional Scripts -->
-<script src="assets/js/custom.js"></script>
-<script src="assets/js/owl.js"></script>
-<script src="assets/js/slick.js"></script>
-<script src="assets/js/accordions.js"></script>
+<script src="assets/js/custom.js" type="text/javascript"></script>
+<script src="assets/js/owl.js" type="text/javascript"></script>
+<script src="assets/js/slick.js" type="text/javascript"></script>
+<script src="assets/js/accordions.js" type="text/javascript"></script>
 
 <script language="text/Javascript">
     cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
