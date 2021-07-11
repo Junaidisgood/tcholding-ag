@@ -104,7 +104,7 @@ require "inc/head.php";
   <div class="team">
     <div class="container">
       <div class="row">
-        <div class="col-md-6" style="border-right: grey solid 3px;">
+        <div class="col-md-6" style="border-right: grey solid 1.5px;">
           <div class="section-heading">
             <h2 style="text-align: right;">Vision</h2>
             <p style="text-align: justify;">
@@ -113,7 +113,7 @@ require "inc/head.php";
             </p>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6" style="border-left: grey solid 1.5px;">
           <div class="section-heading">
             <h2 style="text-align: left;"><em>Mission</em></h2>
             <p style="text-align: justify;">
