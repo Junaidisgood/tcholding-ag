@@ -70,7 +70,7 @@ require "inc/head.php";
                 </ul><br>
                 <p>What differentiates TCH from its competitors is our focus on providing partners, clients and investors with the highest quality advice regarding the most complex issues, free from the conflicts and contradictions inherent in larger firms. We conduct our business according to the highest professional standards, yet we are creative and innovative. Our professionals are driven and our culture is entrepreneurial and result oriented. Our strategy is to serve a select group of clients, partners and investors extraordinarily well.</p><br>
               </div>
-              <a href="services.php" class="filled-button">Read More</a>
+              <div style="padding-left: 10px;"><a href="services.php" class="filled-button">Read More</a></div>
             </div>
           </div>
         </div>
@@ -177,7 +177,7 @@ require "inc/head.php";
     </div>
   </div>
 
-  <div class="testimonials">
+  <!-- <div class="testimonials">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -230,7 +230,7 @@ require "inc/head.php";
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <?php include "inc/footer.php"; ?>
 
