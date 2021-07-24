@@ -28,7 +28,9 @@ require "inc/head.php";
           <div class="text-content">
             <h6>we are ready to help you</h6>
             <h4>Financial Analysis<br>&amp; Consulting</h4>
-            <p>TC Holding AG (TCH) is a tier one bespoke Swiss joint-stock financial and investment firm that offers a variety of innovative services, we are one of the world’s leading private multi-asset alternative investment firms with multimillion Euros in assets under management that creates lasting impact for our clients, partners, investors, teams, businesses and the communities in which we live. </p>
+            <p>TC Holding AG (TCH) is a tier one bespoke Swiss joint-stock financial and investment firm that offers a variety of innovative services, 
+            we are one of the world’s leading private multi-asset alternative investment firms with multimillion Euros in assets under management that 
+            creates lasting impact for our clients, partners, investors, teams, businesses and the communities in which we live. </p>
             <a href="contact.php" class="filled-button">contact us</a>
           </div>
         </div>
@@ -150,95 +152,9 @@ require "inc/head.php";
     </div>
   </div>
 
-  <div class="testimonials">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="section-heading">
-            <h2>What they say <em>about us</em></h2>
-            <span>testimonials from our greatest clients</span>
-          </div>
-        </div>
-        <div class="col-md-12">
-          <div class="owl-testimonials owl-carousel">
-
-            <div class="testimonial-item">
-              <div class="inner-content">
-                <h4>George Walker</h4>
-                <span>Chief Financial Analyst</span>
-                <p>"Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus."</p>
-              </div>
-              <img src="http://placehold.it/60x60" alt="">
-            </div>
-
-            <div class="testimonial-item">
-              <div class="inner-content">
-                <h4>John Smith</h4>
-                <span>Market Specialist</span>
-                <p>"In eget leo ante. Sed nibh leo, laoreet accumsan euismod quis, scelerisque a nunc. Mauris accumsan, arcu id ornare malesuada, est nulla luctus nisi."</p>
-              </div>
-              <img src="http://placehold.it/60x60" alt="">
-            </div>
-
-            <div class="testimonial-item">
-              <div class="inner-content">
-                <h4>David Wood</h4>
-                <span>Chief Accountant</span>
-                <p>"Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique."</p>
-              </div>
-              <img src="http://placehold.it/60x60" alt="">
-            </div>
-
-            <div class="testimonial-item">
-              <div class="inner-content">
-                <h4>Andrew Boom</h4>
-                <span>Marketing Head</span>
-                <p>"Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis."</p>
-              </div>
-              <img src="http://placehold.it/60x60" alt="">
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
   <?php include "inc/callback.php"; ?>
 
-  <div class="partners">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="owl-partners owl-carousel">
-
-            <div class="partner-item">
-              <img src="assets/images/client-01.png" title="1" alt="1">
-            </div>
-
-            <div class="partner-item">
-              <img src="assets/images/client-01.png" title="2" alt="2">
-            </div>
-
-            <div class="partner-item">
-              <img src="assets/images/client-01.png" title="3" alt="3">
-            </div>
-
-            <div class="partner-item">
-              <img src="assets/images/client-01.png" title="4" alt="4">
-            </div>
-
-            <div class="partner-item">
-              <img src="assets/images/client-01.png" title="5" alt="5">
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
+  <div class="pt-4"></div>
   <!-- Footer Starts Here -->
   <?php include "inc/footer.php"; ?>
 

@@ -34,23 +34,23 @@ require "inc/head.php";
           <div class="contact-item">
             <i class="fa fa-phone"></i>
             <h4>Phone</h4>
-            <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.</p>
-            <a href="#">090-080-0760</a>
+            <p>Get in touch, place a call now.</p>
+            <a href="tel:+41716220155">+41-716-220-155</a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="contact-item">
             <i class="fa fa-envelope"></i>
             <h4>Email</h4>
-            <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.</p>
-            <a href="#">info@company.com</a>
+            <p>Write an email to start a conversation.</p>
+            <a href="mailto:">info@company.com</a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="contact-item">
             <i class="fa fa-map-marker"></i>
             <h4>Location</h4>
-            <p>1020 New Mountain Street<br>Forest Park, FP 11220</p>
+            <p>KREUZLINGER STRASSE34 CH- 8570<br>WEINFELDEN, SWITZERLAND</p>
             <a href="#">View on Google Maps</a>
           </div>
         </div>
@@ -58,13 +58,13 @@ require "inc/head.php";
     </div>
   </div>
 
-  <div class="callback-form contact-us">
+  <div class="callback-form contact-us" id="quick-support">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="section-heading">
             <h2>Send us a <em>message</em></h2>
-            <span>Suspendisse a ante in neque iaculis lacinia</span>
+            <span>Drop us a message today.</span>
           </div>
         </div>
         <div class="col-md-12">
@@ -114,19 +114,7 @@ require "inc/head.php";
     <iframe src="https://maps.google.com/maps?q=Av.+Lúcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
   </div>
 
-  <div class="partners contact-partners">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="owl-partners owl-carousel">
-            <div class="partner-item">
-              <img src="assets/images/client-01.png" alt="">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  <!-- PARTNERS SECTION -->
 
 
   <!-- Footer Starts Here -->

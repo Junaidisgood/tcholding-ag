@@ -143,7 +143,7 @@ require "inc/head.php";
             </p>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="team-item">
             <img src="assets/images/team_01.jpg" alt="">
             <div class="down-content">
@@ -153,22 +153,12 @@ require "inc/head.php";
             </div>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="team-item">
             <img src="assets/images/team_02.jpg" alt="">
             <div class="down-content">
               <h4>John Doe</h4>
               <span>Chief Marketing Officer</span>
-              <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna, semper quis.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="team-item">
-            <img src="assets/images/team_03.jpg" alt="">
-            <div class="down-content">
-              <h4>John Doe</h4>
-              <span>Financial Analyst</span>
               <p>In sem sem, dapibus non lacus auctor, ornare sollicitudin lacus. Aliquam ipsum urna, semper quis.</p>
             </div>
           </div>
