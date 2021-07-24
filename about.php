@@ -101,12 +101,13 @@ require "inc/head.php";
     </div>
   </div>
 
-  <div class="team">
+  <!--  VISION&MISSION -->
+  <div class="team" style="margin-top: -70px;">
     <div class="container">
       <div class="row">
         <div class="col-md-6" style="border-right: grey solid 1.5px;">
           <div class="section-heading">
-            <h2 style="text-align: right;">Vision</h2>
+            <h2 style="text-align: right;padding-bottom: 20px;">Vision</h2>
             <p style="text-align: justify;">
               To innovate, create, promote, build and manage humanitarian and economic projects globally.
               To be a world class leader in businesses that enriche lives and contribute to nations in building infrastructure through sustainable value creation.
@@ -115,10 +116,64 @@ require "inc/head.php";
         </div>
         <div class="col-md-6" style="border-left: grey solid 1.5px;">
           <div class="section-heading">
-            <h2 style="text-align: left;"><em>Mission</em></h2>
+            <h2 style="text-align: left;padding-bottom: 20px;"><em>Mission</em></h2>
             <p style="text-align: justify;">
               To build wealth, manage assets and create liquid capital for businesses, government and individuals globally and to be a global resource for project funding, infrastructure development and other liquidity assets.
             </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- CSR -->
+  <div class="team" style="padding-top: 0;">
+    <h2 class="text-center pb-5">CSR</h2>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6" style="border-right: grey solid 1.5px;">
+          <div class="section-heading">
+            <h2 style="text-align: right;">Investing in Sustainability</h2>
+            <p style="text-align: justify;">
+              Protecting the environment of the communities in which we operate is critically important.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6" style="border-left: grey solid 1.5px;">
+          <div class="section-heading">
+
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-6" style="border-right: grey solid 1.5px;">
+          <div class="section-heading">
+
+          </div>
+        </div>
+        <div class="col-md-6" style="border-left: grey solid 1.5px;">
+          <div class="section-heading">
+            <h2 style="text-align: left;"><em>Fostering Growth</em></h2>
+            <p style="text-align: justify;">
+              Fostering growth and creating enterprises of enduring value is a vital part of TCH’s commitment to being responsible corporate citizens.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-6" style="border-right: grey solid 1.5px;">
+          <div class="section-heading">
+            <h2 style="text-align: right;">Investing Responsibly</h2>
+            <p style="text-align: justify;">
+              Our commitment to corporate responsibility is embedded into every investment decision we make.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6" style="border-left: grey solid 1.5px;">
+          <div class="section-heading">
+
           </div>
         </div>
       </div>
