@@ -7,6 +7,7 @@
 
     <title>TC Holding AG</title>
     <link rel="shortcut icon" type="image/jpg" href="assets/images/favicon.png" />
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.css">
