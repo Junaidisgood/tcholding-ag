@@ -1,4 +1,4 @@
-<div class="callback-form">
+<div class="callback-form" style="margin-bottom: 10px;">
     <div class="container">
         <div class="row">
             <div class="col-md-12">

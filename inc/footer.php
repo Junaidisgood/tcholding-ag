@@ -23,8 +23,7 @@
                 <ul class="menu-list">
                     <li><a href="about.php">About Us</a></li>
                     <li><a href="contact.php#quick-support">Quick Support</a></li>
-                    <li><a href="#">Contact Us</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
                 </ul>
             </div>
         </div>
@@ -35,7 +34,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <p>Copyright &copy; 2020 TC Holdign AG., Ltd.
+                <p>Copyright &copy; 2020 TC Holding AG., Ltd.
             </div>
         </div>
     </div>

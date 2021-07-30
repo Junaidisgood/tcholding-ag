@@ -53,20 +53,17 @@ require "inc/head.php";
                 <p>Today, our teams strive to create value through private equity, public equity, credit and venture capital investments across multiple sectors, industries and geographies. We believe that our people and the shared values we’ve espoused since our founding remain the core of our competitive advantage. </p>
                 <p>This has empowered us to deliver an enduring impact to a diverse group of investors including pensions, endowments, governments, foundations, institutions and individuals; providing innovative advice to government, sovereign wealth funds, institutional and individual investors, public and private sector clients worldwide, with a strategic focus on:</p>
                 <ul class="list-group-flush">
-                  <li class="list-group-item">Real Estate and Infrastructure (Innovate, Buy, Sell, Fund and Invest)</li>
-                  <li class="list-group-item">Mining (Develop, Mine, Fund, Buy and Invest)</li>
-                  <li class="list-group-item">Bank Instruments (Advise, Buy, Sell, Fund and Structure)</li>
-                  <li class="list-group-item">Insurance (Advise, Structure and Invest)</li>
-                  <li class="list-group-item">Equity Investment (Fund, Advise, Structure and Invest)</li>
-                  <li class="list-group-item">Renewable Energy (Invest, Buy, Sell, Invest, Fund and Structure)</li>
-                  <li class="list-group-item">Monetization and Trade Program (Advise, Structure, Invest and Fund)</li>
-                  <li class="list-group-item">Merger & Acquisition M&A (Advise, Structure, Fund and Invest)</li>
-                  <li class="list-group-item">Agriculture (Innovate, Advise, Manage, Fund and Invest)</li>
-                  <li class="list-group-item">Oil and Gas (Innovate, Invest, Fund, Buy, Sell and Advise)</li>
-                  <li class="list-group-item">Aviation (Innovate, Structure, Invest, Manage and Fund)</li>
-                  <li class="list-group-item">Innovation Technology (Invest, Fund, Manage and Advise)</li>
-                  <li class="list-group-item">Business Development (Negotiate, Manage, Invest, Fund and Advise)</li>
-                  <li class="list-group-item">Banking (Innovate, Structure, Advise, Invest, Fund and Manage)</li>
+                  <li class="list-group-item">Global Wealth Management</li>
+                  <li class="list-group-item">Consultancy Services</li>
+                  <li class="list-group-item">Banking</li>
+                  <li class="list-group-item">Monetisation and Trade Program</li>
+                  <li class="list-group-item">Structured Financing</li>
+                  <li class="list-group-item">Private Equity</li>
+                  <li class="list-group-item">Real Estate and Infrastructure</li>
+                  <li class="list-group-item">Renewable Energy</li>
+                  <li class="list-group-item">Investment</li>
+                  <li class="list-group-item">Project Finance</li>
+                  
                 </ul><br>
                 <p>What differentiates TCH from its competitors is our focus on providing partners, clients and investors with the highest quality advice regarding the most complex issues, free from the conflicts and contradictions inherent in larger firms. We conduct our business according to the highest professional standards, yet we are creative and innovative. Our professionals are driven and our culture is entrepreneurial and result oriented. Our strategy is to serve a select group of clients, partners and investors extraordinarily well.</p><br>
               </div>
