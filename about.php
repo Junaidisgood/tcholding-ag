@@ -21,7 +21,7 @@ require "inc/head.php";
       <div class="row">
         <div class="col-md-12">
           <h1>About Us</h1>
-          <span>We have over 13 years of experience</span>
+          <span>We have over 16 years of experience</span>
         </div>
       </div>
     </div>
@@ -38,7 +38,7 @@ require "inc/head.php";
                   <span>our solid background on finance</span>
                   <h2>Get to know about <em>our company</em></h2>
                   <p>TC Holding AG (TCH) is a tier one bespoke Swiss joint-stock financial and investment firm that offers a variety of innovative services, we are one of the world’s leading private multi-asset alternative investment firms with multimillion Euros in assets under management that creates lasting impact for our clients, partners, investors, teams, businesses and the communities in which we live.
-                    <br><br>Founded in 2008, we pioneered a consulting-based approach to private equity investing, partnering closely with management teams to offer the insights that challenge conventional thinking, build great businesses and improve operations. Over time, we have organically expanded this approach across asset classes to build one of the strongest alternative asset platforms in the world. Our solid financial base, including strong capital and liquidity, ensures our capacity to deliver on our commitments.
+                    <br><br>Founded in 2005, we pioneered a consulting-based approach to private equity investing, partnering closely with management teams to offer the insights that challenge conventional thinking, build great businesses and improve operations. Over time, we have organically expanded this approach across asset classes to build one of the strongest alternative asset platforms in the world. Our solid financial base, including strong capital and liquidity, ensures our capacity to deliver on our commitments.
                   </p>
 
                 </div>
