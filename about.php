@@ -45,7 +45,7 @@ require "inc/head.php";
               </div>
               <div class="col-md-6">
                 <div class="left-image">
-                  <img src="assets/images/about-image.jpg" alt="">
+                  <img src="assets/images/logo.png" alt="">
                 </div>
               </div>
               <div class="col-md-12">

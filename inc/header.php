@@ -23,8 +23,9 @@
 <header class="">
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand" href="index.php">
-                <h2>TC Holding AG</h2>
+            <a class="navbar-brand" href="index.php" style="color: white;">
+                <img src="assets/images/logo.png" width="30" height="30" class="d-inline-block align-top" alt="Logo">
+                TC Holding AG
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
