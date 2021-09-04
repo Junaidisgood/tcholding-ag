@@ -15,6 +15,8 @@
         );
 
         header('Location: ' . $_SERVER['HTTP_REFERER']);
+    }else {
+        echo "Error";
     }
 
     ?>
