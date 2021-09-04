@@ -6,7 +6,13 @@
     $body = "A message was sent by " . $name . "\nDetails:\nEmail: " . $email . "\Subject: " . $subject . "\Message: " . $message;
     if (isset($_POST['sb_form'])) {
 
-        echo $body;
+        mail(
+            // "info@tcholdingag.com",
+            "gahed19487@enamelme.com", 
+            $subject,
+
+            $body
+        );
 
         header('Location: ' . $_SERVER['HTTP_REFERER']);
     }else {
