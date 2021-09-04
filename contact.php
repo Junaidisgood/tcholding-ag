@@ -69,7 +69,7 @@ require "inc/head.php";
         </div>
         <div class="col-md-12">
           <div class="contact-form">
-            <form id="contact" action="scripts/contact_form.php" method="get">
+            <form id="contact" action="scripts/contact_form.php" method="post">
               <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12">
                   <fieldset>
