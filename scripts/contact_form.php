@@ -9,7 +9,7 @@
         mail(
             // "info@tcholdingag.com",
             "gahed19487@enamelme.com", 
-            "New Message | " . $subject,
+            $subject,
 
             $body
         );
