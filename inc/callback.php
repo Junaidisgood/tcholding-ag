@@ -33,7 +33,7 @@
                             </div>
                             <div class="col-lg-12">
                                 <fieldset>
-                                    <button type="submit" id="form-submit" class="border-button" name="sb_form">Send Message</button>
+                                    <button name="sb_form" type="submit" id="sb_formcha" class="border-button">Send Message</button>
                                 </fieldset>
                             </div>
                         </div>
