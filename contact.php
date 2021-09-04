@@ -69,7 +69,7 @@ require "inc/head.php";
         </div>
         <div class="col-md-12">
           <div class="contact-form">
-            <form id="contact" action="" method="get">
+            <form id="contact" action="scripts/contact_form.php" method="get">
               <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12">
                   <fieldset>
@@ -93,7 +93,7 @@ require "inc/head.php";
                 </div>
                 <div class="col-lg-12">
                   <fieldset>
-                    <button type="submit" id="form-submit" class="filled-button">Send Message</button>
+                    <button type="submit" id="form-submit" class="filled-button" name="sb_form">Send Message</button>
                   </fieldset>
                 </div>
               </div>

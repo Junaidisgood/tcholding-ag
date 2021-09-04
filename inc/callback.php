@@ -9,7 +9,7 @@
             </div>
             <div class="col-md-12">
                 <div class="contact-form">
-                    <form id="contact" action="scripts/callback.php" method="post">
+                    <form id="contact" action="scripts/contact_form.php" method="post">
                         <div class="row">
                             <div class="col-lg-4 col-md-12 col-sm-12">
                                 <fieldset>
@@ -33,7 +33,7 @@
                             </div>
                             <div class="col-lg-12">
                                 <fieldset>
-                                    <button type="submit" id="form-submit" class="border-button">Send Message</button>
+                                    <button type="submit" id="form-submit" class="border-button" name="sb_form">Send Message</button>
                                 </fieldset>
                             </div>
                         </div>
